@@ -1,1 +1,1 @@
-Templated tensor library with CUDA support based on std::vector with unified memory allocator designed for use in neural networks with preference of simple yet powerful code.
+Templated tensor library with CUDA support based on std::vector with unified memory allocator designed for use in neural networks with preference of simple yet powerful code. Features multi-indexing (tensor[{0,b,c}]) basic operations +-/* (including both overloaded and static versions), broadcast, inner and outer products (all with templated product function), mergesort.
