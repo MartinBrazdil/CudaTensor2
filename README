@@ -1,0 +1,1 @@
+Templated tensor library with CUDA support based on std::vector with unified memory allocator designed for use in neural networks with preference of simple yet powerful code.
